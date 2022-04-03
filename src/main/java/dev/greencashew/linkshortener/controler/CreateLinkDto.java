@@ -12,6 +12,7 @@ record CreateLinkDto (
     String targetUrl,
    LocalDate expirationDate)
     {
+
     public LinkDto toDto() {
         return new LinkDto(
                 id,
