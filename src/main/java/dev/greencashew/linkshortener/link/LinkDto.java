@@ -1,4 +1,4 @@
-package dev.greencashew.linkshortener.controler;
+package dev.greencashew.linkshortener.link;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
